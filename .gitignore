@@ -5,11 +5,10 @@
 /.phpstan-cache/
 /.pint.cache
 /.idea/
+/.vscode/
 .DS_Store
 Thumbs.db
 *.swp
 *.swo
 /coverage/
 /build/
-config.bat
-node_modules
